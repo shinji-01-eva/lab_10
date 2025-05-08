@@ -8,6 +8,6 @@ public class Car implements Vehicle{
 
     @Override
     public void stop() {
-        System.out.println("gari rok bkl");
+        System.out.println("gari rok bhai");
     }
 }
